@@ -1,5 +1,9 @@
-def main():
-  #print('You rolled a die')
+import numpy as np
 
-if __name__== "__main__":
-  main()
+
+def main():
+    print('You rolled a die')
+
+
+if __name__ == "__main__":
+    main()
